@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1744126211 source:d:\programming\asgm2 es\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<algorithm>
+	<limits>
+	<iomanip>
+
